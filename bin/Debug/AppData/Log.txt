@@ -1,0 +1,215 @@
+﻿Log Created: 01-01-2019, 11:47:33
+By loaded user account: 3
+[11:47:33] Info: Beggining load
+[11:47:33] Info: Loaded save file
+[11:47:33] ERROR: At Load Map, Display engine, Game: Object reference not set to an instance of an object.
+[11:47:33] ERROR: At Load Map, Display engine, Game: Index was outside the bounds of the array.
+[11:47:33] ERROR: At Load Map, Display engine, Game: Index was outside the bounds of the array.
+[11:47:33] ERROR: At Load Map, Display engine, Game: Index was outside the bounds of the array.
+[11:47:33] ERROR: At Load Map, Display engine, Game: Index was outside the bounds of the array.
+[11:47:33] ERROR: At Load Map, Display engine, Game: Index was outside the bounds of the array.
+[11:47:33] ERROR: At Load Map, Display engine, Game: Index was outside the bounds of the array.
+[11:47:33] ERROR: At Load Map, Display engine, Game: Index was outside the bounds of the array.
+[11:47:33] ERROR: At Load Map, Display engine, Game: Index was outside the bounds of the array.
+[11:47:33] ERROR: At Load Map, Display engine, Game: Index was outside the bounds of the array.
+[11:47:33] ERROR: At Load Map, Display engine, Game: Object reference not set to an instance of an object.
+[11:47:33] ERROR: At Load Map, Display engine, Game: Index was outside the bounds of the array.
+[11:47:33] ERROR: At Load Map, Display engine, Game: Index was outside the bounds of the array.
+[11:47:33] ERROR: At Load Map, Display engine, Game: Index was outside the bounds of the array.
+[11:47:33] ERROR: At Load Map, Display engine, Game: Index was outside the bounds of the array.
+[11:47:33] ERROR: At Load Map, Display engine, Game: Index was outside the bounds of the array.
+[11:47:33] ERROR: At Load Map, Display engine, Game: Index was outside the bounds of the array.
+[11:47:33] ERROR: At Load Map, Display engine, Game: Index was outside the bounds of the array.
+[11:47:33] ERROR: At Load Map, Display engine, Game: Index was outside the bounds of the array.
+[11:47:33] ERROR: At Load Map, Display engine, Game: Index was outside the bounds of the array.
+[11:47:33] ERROR: At Load Map, Display engine, Game: Object reference not set to an instance of an object.
+[11:47:33] ERROR: At Load Map, Display engine, Game: Index was outside the bounds of the array.
+[11:47:33] ERROR: At Load Map, Display engine, Game: Index was outside the bounds of the array.
+[11:47:33] ERROR: At Load Map, Display engine, Game: Index was outside the bounds of the array.
+[11:47:33] ERROR: At Load Map, Display engine, Game: Index was outside the bounds of the array.
+[11:47:33] ERROR: At Load Map, Display engine, Game: Index was outside the bounds of the array.
+[11:47:33] ERROR: At Load Map, Display engine, Game: Index was outside the bounds of the array.
+[11:47:33] ERROR: At Load Map, Display engine, Game: Index was outside the bounds of the array.
+[11:47:33] ERROR: At Load Map, Display engine, Game: Index was outside the bounds of the array.
+[11:47:33] ERROR: At Load Map, Display engine, Game: Index was outside the bounds of the array.
+[11:47:33] ERROR: At Load Map, Display engine, Game: Object reference not set to an instance of an object.
+[11:47:33] ERROR: At Load Map, Display engine, Game: Index was outside the bounds of the array.
+[11:47:33] ERROR: At Load Map, Display engine, Game: Index was outside the bounds of the array.
+[11:47:33] ERROR: At Load Map, Display engine, Game: Index was outside the bounds of the array.
+[11:47:33] ERROR: At Load Map, Display engine, Game: Index was outside the bounds of the array.
+[11:47:33] ERROR: At Load Map, Display engine, Game: Index was outside the bounds of the array.
+[11:47:33] ERROR: At Load Map, Display engine, Game: Index was outside the bounds of the array.
+[11:47:33] ERROR: At Load Map, Display engine, Game: Index was outside the bounds of the array.
+[11:47:33] ERROR: At Load Map, Display engine, Game: Index was outside the bounds of the array.
+[11:47:33] ERROR: At Load Map, Display engine, Game: Index was outside the bounds of the array.
+[11:47:33] ERROR: At Load Map, Display engine, Game: Object reference not set to an instance of an object.
+[11:47:33] ERROR: At Load Map, Display engine, Game: Index was outside the bounds of the array.
+[11:47:33] ERROR: At Load Map, Display engine, Game: Index was outside the bounds of the array.
+[11:47:33] ERROR: At Load Map, Display engine, Game: Index was outside the bounds of the array.
+[11:47:33] ERROR: At Load Map, Display engine, Game: Index was outside the bounds of the array.
+[11:47:33] ERROR: At Load Map, Display engine, Game: Index was outside the bounds of the array.
+[11:47:33] ERROR: At Load Map, Display engine, Game: Index was outside the bounds of the array.
+[11:47:33] ERROR: At Load Map, Display engine, Game: Index was outside the bounds of the array.
+[11:47:33] ERROR: At Load Map, Display engine, Game: Index was outside the bounds of the array.
+[11:47:33] ERROR: At Load Map, Display engine, Game: Index was outside the bounds of the array.
+[11:47:33] ERROR: At Load Map, Display engine, Game: Object reference not set to an instance of an object.
+[11:47:33] ERROR: At Load Map, Display engine, Game: Index was outside the bounds of the array.
+[11:47:33] ERROR: At Load Map, Display engine, Game: Index was outside the bounds of the array.
+[11:47:33] ERROR: At Load Map, Display engine, Game: Index was outside the bounds of the array.
+[11:47:33] ERROR: At Load Map, Display engine, Game: Index was outside the bounds of the array.
+[11:47:33] ERROR: At Load Map, Display engine, Game: Index was outside the bounds of the array.
+[11:47:33] ERROR: At Load Map, Display engine, Game: Index was outside the bounds of the array.
+[11:47:33] ERROR: At Load Map, Display engine, Game: Index was outside the bounds of the array.
+[11:47:33] ERROR: At Load Map, Display engine, Game: Index was outside the bounds of the array.
+[11:47:33] ERROR: At Load Map, Display engine, Game: Index was outside the bounds of the array.
+[11:47:33] ERROR: At Load Map, Display engine, Game: Object reference not set to an instance of an object.
+[11:47:33] ERROR: At Load Map, Display engine, Game: Index was outside the bounds of the array.
+[11:47:33] ERROR: At Load Map, Display engine, Game: Index was outside the bounds of the array.
+[11:47:33] ERROR: At Load Map, Display engine, Game: Index was outside the bounds of the array.
+[11:47:33] ERROR: At Load Map, Display engine, Game: Index was outside the bounds of the array.
+[11:47:33] ERROR: At Load Map, Display engine, Game: Index was outside the bounds of the array.
+[11:47:33] ERROR: At Load Map, Display engine, Game: Index was outside the bounds of the array.
+[11:47:33] ERROR: At Load Map, Display engine, Game: Index was outside the bounds of the array.
+[11:47:33] ERROR: At Load Map, Display engine, Game: Index was outside the bounds of the array.
+[11:47:33] ERROR: At Load Map, Display engine, Game: Index was outside the bounds of the array.
+[11:47:33] ERROR: At Load Map, Display engine, Game: Object reference not set to an instance of an object.
+[11:47:33] ERROR: At Load Map, Display engine, Game: Index was outside the bounds of the array.
+[11:47:33] ERROR: At Load Map, Display engine, Game: Index was outside the bounds of the array.
+[11:47:33] ERROR: At Load Map, Display engine, Game: Index was outside the bounds of the array.
+[11:47:33] ERROR: At Load Map, Display engine, Game: Index was outside the bounds of the array.
+[11:47:33] ERROR: At Load Map, Display engine, Game: Index was outside the bounds of the array.
+[11:47:33] ERROR: At Load Map, Display engine, Game: Index was outside the bounds of the array.
+[11:47:33] ERROR: At Load Map, Display engine, Game: Index was outside the bounds of the array.
+[11:47:33] ERROR: At Load Map, Display engine, Game: Index was outside the bounds of the array.
+[11:47:33] ERROR: At Load Map, Display engine, Game: Index was outside the bounds of the array.
+[11:47:33] ERROR: At Load Map, Display engine, Game: Object reference not set to an instance of an object.
+[11:47:33] ERROR: At Load Map, Display engine, Game: Index was outside the bounds of the array.
+[11:47:33] ERROR: At Load Map, Display engine, Game: Index was outside the bounds of the array.
+[11:47:33] ERROR: At Load Map, Display engine, Game: Index was outside the bounds of the array.
+[11:47:33] ERROR: At Load Map, Display engine, Game: Index was outside the bounds of the array.
+[11:47:33] ERROR: At Load Map, Display engine, Game: Index was outside the bounds of the array.
+[11:47:33] ERROR: At Load Map, Display engine, Game: Index was outside the bounds of the array.
+[11:47:33] ERROR: At Load Map, Display engine, Game: Index was outside the bounds of the array.
+[11:47:33] ERROR: At Load Map, Display engine, Game: Index was outside the bounds of the array.
+[11:47:33] ERROR: At Load Map, Display engine, Game: Index was outside the bounds of the array.
+[11:47:33] ERROR: At Load Map, Display engine, Game: Object reference not set to an instance of an object.
+[11:47:33] ERROR: At Load Map, Display engine, Game: Index was outside the bounds of the array.
+[11:47:33] ERROR: At Load Map, Display engine, Game: Index was outside the bounds of the array.
+[11:47:33] ERROR: At Load Map, Display engine, Game: Index was outside the bounds of the array.
+[11:47:33] ERROR: At Load Map, Display engine, Game: Index was outside the bounds of the array.
+[11:47:33] ERROR: At Load Map, Display engine, Game: Index was outside the bounds of the array.
+[11:47:33] ERROR: At Load Map, Display engine, Game: Index was outside the bounds of the array.
+[11:47:33] ERROR: At Load Map, Display engine, Game: Index was outside the bounds of the array.
+[11:47:33] ERROR: At Load Map, Display engine, Game: Index was outside the bounds of the array.
+[11:47:33] ERROR: At Load Map, Display engine, Game: Index was outside the bounds of the array.
+[11:47:33] ERROR: At Load Map, Display engine, Game: Object reference not set to an instance of an object.
+[11:47:33] ERROR: At Load Map, Display engine, Game: Index was outside the bounds of the array.
+[11:47:34] ERROR: At Load Map, Display engine, Game: Index was outside the bounds of the array.
+[11:47:34] ERROR: At Load Map, Display engine, Game: Index was outside the bounds of the array.
+[11:47:34] ERROR: At Load Map, Display engine, Game: Index was outside the bounds of the array.
+[11:47:34] ERROR: At Load Map, Display engine, Game: Index was outside the bounds of the array.
+[11:47:34] ERROR: At Load Map, Display engine, Game: Index was outside the bounds of the array.
+[11:47:34] ERROR: At Load Map, Display engine, Game: Index was outside the bounds of the array.
+[11:47:34] ERROR: At Load Map, Display engine, Game: Index was outside the bounds of the array.
+[11:47:34] ERROR: At Load Map, Display engine, Game: Index was outside the bounds of the array.
+[11:47:34] ERROR: At Load Map, Display engine, Game: Object reference not set to an instance of an object.
+[11:47:34] ERROR: At Load Map, Display engine, Game: Index was outside the bounds of the array.
+[11:47:34] ERROR: At Load Map, Display engine, Game: Index was outside the bounds of the array.
+[11:47:34] ERROR: At Load Map, Display engine, Game: Index was outside the bounds of the array.
+[11:47:34] ERROR: At Load Map, Display engine, Game: Index was outside the bounds of the array.
+[11:47:34] ERROR: At Load Map, Display engine, Game: Index was outside the bounds of the array.
+[11:47:34] ERROR: At Load Map, Display engine, Game: Index was outside the bounds of the array.
+[11:47:34] ERROR: At Load Map, Display engine, Game: Index was outside the bounds of the array.
+[11:47:34] ERROR: At Load Map, Display engine, Game: Index was outside the bounds of the array.
+[11:47:34] ERROR: At Load Map, Display engine, Game: Index was outside the bounds of the array.
+[11:47:34] ERROR: At Load Map, Display engine, Game: Object reference not set to an instance of an object.
+[11:47:34] ERROR: At Load Map, Display engine, Game: Index was outside the bounds of the array.
+[11:47:34] ERROR: At Load Map, Display engine, Game: Index was outside the bounds of the array.
+[11:47:34] ERROR: At Load Map, Display engine, Game: Index was outside the bounds of the array.
+[11:47:34] ERROR: At Load Map, Display engine, Game: Index was outside the bounds of the array.
+[11:47:34] ERROR: At Load Map, Display engine, Game: Index was outside the bounds of the array.
+[11:47:34] ERROR: At Load Map, Display engine, Game: Index was outside the bounds of the array.
+[11:47:34] ERROR: At Load Map, Display engine, Game: Index was outside the bounds of the array.
+[11:47:34] ERROR: At Load Map, Display engine, Game: Index was outside the bounds of the array.
+[11:47:34] ERROR: At Load Map, Display engine, Game: Index was outside the bounds of the array.
+[11:47:34] ERROR: At Load Map, Display engine, Game: Object reference not set to an instance of an object.
+[11:47:34] ERROR: At Load Map, Display engine, Game: Index was outside the bounds of the array.
+[11:47:34] ERROR: At Load Map, Display engine, Game: Index was outside the bounds of the array.
+[11:47:34] ERROR: At Load Map, Display engine, Game: Index was outside the bounds of the array.
+[11:47:34] ERROR: At Load Map, Display engine, Game: Index was outside the bounds of the array.
+[11:47:34] ERROR: At Load Map, Display engine, Game: Index was outside the bounds of the array.
+[11:47:34] ERROR: At Load Map, Display engine, Game: Index was outside the bounds of the array.
+[11:47:34] ERROR: At Load Map, Display engine, Game: Index was outside the bounds of the array.
+[11:47:34] ERROR: At Load Map, Display engine, Game: Index was outside the bounds of the array.
+[11:47:34] ERROR: At Load Map, Display engine, Game: Index was outside the bounds of the array.
+[11:47:34] ERROR: At Load Map, Display engine, Game: Object reference not set to an instance of an object.
+[11:47:34] ERROR: At Load Map, Display engine, Game: Index was outside the bounds of the array.
+[11:47:34] ERROR: At Load Map, Display engine, Game: Index was outside the bounds of the array.
+[11:47:34] ERROR: At Load Map, Display engine, Game: Index was outside the bounds of the array.
+[11:47:34] ERROR: At Load Map, Display engine, Game: Index was outside the bounds of the array.
+[11:47:34] ERROR: At Load Map, Display engine, Game: Index was outside the bounds of the array.
+[11:47:34] ERROR: At Load Map, Display engine, Game: Index was outside the bounds of the array.
+[11:47:34] ERROR: At Load Map, Display engine, Game: Index was outside the bounds of the array.
+[11:47:34] ERROR: At Load Map, Display engine, Game: Index was outside the bounds of the array.
+[11:47:34] ERROR: At Load Map, Display engine, Game: Index was outside the bounds of the array.
+[11:47:34] ERROR: At Load Map, Display engine, Game: Object reference not set to an instance of an object.
+[11:47:34] ERROR: At Load Map, Display engine, Game: Index was outside the bounds of the array.
+[11:47:34] ERROR: At Load Map, Display engine, Game: Index was outside the bounds of the array.
+[11:47:34] ERROR: At Load Map, Display engine, Game: Index was outside the bounds of the array.
+[11:47:34] ERROR: At Load Map, Display engine, Game: Index was outside the bounds of the array.
+[11:47:34] ERROR: At Load Map, Display engine, Game: Index was outside the bounds of the array.
+[11:47:34] ERROR: At Load Map, Display engine, Game: Index was outside the bounds of the array.
+[11:47:34] ERROR: At Load Map, Display engine, Game: Index was outside the bounds of the array.
+[11:47:34] ERROR: At Load Map, Display engine, Game: Index was outside the bounds of the array.
+[11:47:34] ERROR: At Load Map, Display engine, Game: Index was outside the bounds of the array.
+[11:47:34] ERROR: At Load Map, Display engine, Game: Object reference not set to an instance of an object.
+[11:47:34] ERROR: At Load Map, Display engine, Game: Index was outside the bounds of the array.
+[11:47:34] ERROR: At Load Map, Display engine, Game: Index was outside the bounds of the array.
+[11:47:34] ERROR: At Load Map, Display engine, Game: Index was outside the bounds of the array.
+[11:47:34] ERROR: At Load Map, Display engine, Game: Index was outside the bounds of the array.
+[11:47:34] ERROR: At Load Map, Display engine, Game: Index was outside the bounds of the array.
+[11:47:34] ERROR: At Load Map, Display engine, Game: Index was outside the bounds of the array.
+[11:47:34] ERROR: At Load Map, Display engine, Game: Index was outside the bounds of the array.
+[11:47:34] ERROR: At Load Map, Display engine, Game: Index was outside the bounds of the array.
+[11:47:34] ERROR: At Load Map, Display engine, Game: Index was outside the bounds of the array.
+[11:47:34] ERROR: At Load Map, Display engine, Game: Object reference not set to an instance of an object.
+[11:47:34] ERROR: At Load Map, Display engine, Game: Index was outside the bounds of the array.
+[11:47:34] ERROR: At Load Map, Display engine, Game: Index was outside the bounds of the array.
+[11:47:34] ERROR: At Load Map, Display engine, Game: Index was outside the bounds of the array.
+[11:47:34] ERROR: At Load Map, Display engine, Game: Index was outside the bounds of the array.
+[11:47:34] ERROR: At Load Map, Display engine, Game: Index was outside the bounds of the array.
+[11:47:34] ERROR: At Load Map, Display engine, Game: Index was outside the bounds of the array.
+[11:47:34] ERROR: At Load Map, Display engine, Game: Index was outside the bounds of the array.
+[11:47:34] ERROR: At Load Map, Display engine, Game: Index was outside the bounds of the array.
+[11:47:34] ERROR: At Load Map, Display engine, Game: Index was outside the bounds of the array.
+[11:47:34] ERROR: At Load Map, Display engine, Game: Object reference not set to an instance of an object.
+[11:47:34] ERROR: At Load Map, Display engine, Game: Index was outside the bounds of the array.
+[11:47:34] ERROR: At Load Map, Display engine, Game: Index was outside the bounds of the array.
+[11:47:34] ERROR: At Load Map, Display engine, Game: Index was outside the bounds of the array.
+[11:47:34] ERROR: At Load Map, Display engine, Game: Index was outside the bounds of the array.
+[11:47:34] ERROR: At Load Map, Display engine, Game: Index was outside the bounds of the array.
+[11:47:34] ERROR: At Load Map, Display engine, Game: Index was outside the bounds of the array.
+[11:47:34] ERROR: At Load Map, Display engine, Game: Index was outside the bounds of the array.
+[11:47:34] ERROR: At Load Map, Display engine, Game: Index was outside the bounds of the array.
+[11:47:34] ERROR: At Load Map, Display engine, Game: Index was outside the bounds of the array.
+[11:47:34] ERROR: At Load Map, Display engine, Game: Object reference not set to an instance of an object.
+[11:47:34] ERROR: At Load Map, Display engine, Game: Index was outside the bounds of the array.
+[11:47:34] ERROR: At Load Map, Display engine, Game: Index was outside the bounds of the array.
+[11:47:34] ERROR: At Load Map, Display engine, Game: Index was outside the bounds of the array.
+[11:47:34] ERROR: At Load Map, Display engine, Game: Index was outside the bounds of the array.
+[11:47:34] ERROR: At Load Map, Display engine, Game: Index was outside the bounds of the array.
+[11:47:34] ERROR: At Load Map, Display engine, Game: Index was outside the bounds of the array.
+[11:47:34] ERROR: At Load Map, Display engine, Game: Index was outside the bounds of the array.
+[11:47:34] ERROR: At Load Map, Display engine, Game: Index was outside the bounds of the array.
+[11:47:34] ERROR: At Load Map, Display engine, Game: Index was outside the bounds of the array.
+[11:47:34] Info: Loaded and drawn map
+[11:47:34] Info: Drawn character
+[11:48:00] WARN At CharacterEngine: Index was outside the bounds of the array.
+[11:48:00] WARN At CharacterEngine: Index was outside the bounds of the array.
+[11:48:00] WARN At CharacterEngine: Index was outside the bounds of the array.
+[11:48:00] WARN At CharacterEngine: Index was outside the bounds of the array.
+[11:48:00] WARN At CharacterEngine: Index was outside the bounds of the array.
+[11:48:00] WARN At CharacterEngine: Index was outside the bounds of the array.
+[11:48:00] WARN At CharacterEngine: Index was outside the bounds of the array.
+[11:48:00] WARN At CharacterEngine: Index was outside the bounds of the array.
+[11:48:00] WARN At CharacterEngine: Index was outside the bounds of the array.
