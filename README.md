@@ -2,7 +2,7 @@
 
 A re-write and further expansion of [Splash X2](https://github.com/jdngray77/SplashX2)
 
-[Download the exe](https://github.com/jdngray77/SplashX2/releases)
+[Download the exe](https://github.com/jdngray77/SplashX3/releases)
 
 ![image](https://user-images.githubusercontent.com/50697488/171229846-c12a1f34-a222-42d1-b54c-4a0ba14c0387.png)
 
