@@ -32,7 +32,7 @@ Namespace My
         
         <Global.System.Diagnostics.DebuggerStepThroughAttribute()>  _
         Protected Overrides Sub OnCreateMainForm()
-            Me.MainForm = Global.Splash_X3.frmStart
+            Me.MainForm = Global.Splash_X3_Development_Tool.ServiceHome
         End Sub
     End Class
 End Namespace

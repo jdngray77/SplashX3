@@ -8,17 +8,17 @@ Imports System.Runtime.InteropServices
 
 ' Review the values of the assembly attributes
 
-<Assembly: AssemblyTitle("Splash X3")>
+<Assembly: AssemblyTitle("Splash X3 Development Tool")>
 <Assembly: AssemblyDescription("")>
 <Assembly: AssemblyCompany("")>
-<Assembly: AssemblyProduct("Splash X3")>
+<Assembly: AssemblyProduct("Splash X3 Development Tool")>
 <Assembly: AssemblyCopyright("Copyright ©  2018")>
 <Assembly: AssemblyTrademark("")>
 
 <Assembly: ComVisible(False)>
 
 'The following GUID is for the ID of the typelib if this project is exposed to COM
-<Assembly: Guid("519e5f1c-5090-45bc-83d1-3b999d539ea8")>
+<Assembly: Guid("9af9d95f-2b5c-4ec9-a953-50e8a7d2c798")>
 
 ' Version information for an assembly consists of the following four values:
 '

@@ -1,0 +1,282 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{2D613F8C-C47D-4076-8A15-2AD0A18CCA36}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>Splash_X3_Development_Tool.My.MyApplication</StartupObject>
+    <RootNamespace>Splash_X3_Development_Tool</RootNamespace>
+    <AssemblyName>Splash X3 Development Tool</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <TargetFrameworkProfile />
+    <PublishUrl>F:\Tools\Development Tool\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>1</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <PublishWizardCompleted>true</PublishWizardCompleted>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>Splash X3 Development Tool.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>Splash X3 Development Tool.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestCertificateThumbprint>E274418B6F4992919DF8E5AEF29128D3CDC2F573</ManifestCertificateThumbprint>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestKeyFile>Splash X3 Development Tool_TemporaryKey.pfx</ManifestKeyFile>
+  </PropertyGroup>
+  <PropertyGroup>
+    <GenerateManifests>true</GenerateManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignManifests>false</SignManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <TargetZone>LocalIntranet</TargetZone>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationManifest>My Project\app.manifest</ApplicationManifest>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Net.Http" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+    <Import Include="System.Threading.Tasks" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Export.Designer.vb">
+      <DependentUpon>Export.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Export.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FileWrite.Designer.vb">
+      <DependentUpon>FileWrite.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FileWrite.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.vb">
+      <DependentUpon>Form1.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="KeyMap.Designer.vb">
+      <DependentUpon>KeyMap.vb</DependentUpon>
+    </Compile>
+    <Compile Include="KeyMap.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MapDesigner.Designer.vb">
+      <DependentUpon>MapDesigner.vb</DependentUpon>
+    </Compile>
+    <Compile Include="MapDesigner.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Loading.Designer.vb">
+      <DependentUpon>Loading.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Loading.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MapSize.Designer.vb">
+      <DependentUpon>MapSize.vb</DependentUpon>
+    </Compile>
+    <Compile Include="MapSize.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="ServiceHome.Designer.vb">
+      <DependentUpon>ServiceHome.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ServiceHome.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Export.resx">
+      <DependentUpon>Export.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FileWrite.resx">
+      <DependentUpon>FileWrite.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="KeyMap.resx">
+      <DependentUpon>KeyMap.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MapDesigner.resx">
+      <DependentUpon>MapDesigner.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Loading.resx">
+      <DependentUpon>Loading.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MapSize.resx">
+      <DependentUpon>MapSize.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ServiceHome.resx">
+      <DependentUpon>ServiceHome.vb</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="My Project\app.manifest" />
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Textures New\GrassWorn.png" />
+    <Content Include="Textures New\Partials\PoleLarge.png" />
+    <Content Include="Textures New\GrassPoleFence.png" />
+    <Content Include="Textures New\GrassTree.png" />
+    <Content Include="Textures New\Partials\Compiled Grass.gif" />
+    <Content Include="Textures New\Partials\Compiled Plain.gif" />
+    <Content Include="Textures New\Partials\FlowerFrame2.png" />
+    <Content Include="Textures New\Partials\GrassFlowerFrame1.png" />
+    <Content Include="Textures New\Partials\GrassFlowerFrame2.png" />
+    <Content Include="Textures New\GrassFlower.gif" />
+    <Content Include="Textures New\GrassLong.png" />
+    <Content Include="Textures New\GrassSign.png" />
+    <Content Include="Textures New\GrassPlain.png" />
+    <Content Include="Textures New\Partials\FlowerFrame1.png" />
+    <Content Include="Textures New\Partials\FlowerSegments.png" />
+    <Content Include="Textures New\Partials\SignPlain.png" />
+    <Content Include="Textures New\Partials\PoleFence.png" />
+    <Content Include="Textures New\GrassPoleLarge.png" />
+    <Content Include="Textures New\SandPoleLarge.png" />
+    <Content Include="Textures New\SandSign.png" />
+    <Content Include="Textures New\SandPoleFence.png" />
+    <Content Include="Textures New\SandGravel.png" />
+    <Content Include="Textures New\Sand.png" />
+    <Content Include="Textures New\SaveNew.png" />
+    <Content Include="Textures New\TreeNew.png" />
+    <Content Include="Textures New\WaterNew.png" />
+    <Content Include="Textures\EnemyBase.png" />
+    <Content Include="Textures\EnemyTurrets.png" />
+    <Content Include="Textures\mapnull.jpg" />
+    <Content Include="Textures\PathAxe.png" />
+    <Content Include="Textures\PathBlack.png" />
+    <Content Include="Textures\PathExit.png" />
+    <Content Include="Textures\PickAxe.png" />
+    <Content Include="Textures\RockBig.png" />
+    <Content Include="Textures\RockSmall.png" />
+    <Content Include="Textures\SandCactus.png" />
+    <Content Include="Textures\SandPlain.png" />
+    <Content Include="Textures\saved.gif" />
+    <Content Include="Textures\SavePoint.gif" />
+    <Content Include="Textures\Selecter.png" />
+    <Content Include="Textures\StoryPointerDown.gif" />
+    <Content Include="Textures\StoryPointerLeft.gif" />
+    <Content Include="Textures\StoryPointerRight.gif" />
+    <Content Include="Textures\StoryPointerUp.gif" />
+    <Content Include="Textures\TreeSmall.gif" />
+    <Content Include="Textures\WaterDown.gif" />
+    <Content Include="Textures\WoodPlank.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.6.1">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.6.1 %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+</Project>

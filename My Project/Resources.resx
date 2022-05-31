@@ -118,250 +118,88 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
-  <data name="AbandonedHopes" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\resources\music\abandonedhopes.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="Apple" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\resources\items\apple.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="CrimsonDrive" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\resources\music\crimsondrive.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
   <data name="EnemyBase" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\resources\textures\enemybase.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+    <value>..\textures\enemybase.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="EnemyTurrets" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\resources\enemyturrets.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="FieldsofIce" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\resources\music\fieldsofice.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="For_Me" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\resources\music\for me.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="GameOver" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\resources\gameover.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="GameOverTrack" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\resources\music\gameovertrack.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="horizontal_slide_panel" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\resources\horizontal slide panel.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="Hurt" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\resources\sound effects\hurt.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="Icon" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\resources\icon.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="idle" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\resources\character\sprites\idle.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="idleLeft" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\resources\character\sprites\idleleft.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="Iron" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\resources\textures\iron.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="LegalSplash" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\resources\legalsplash.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="Mecha_Collection" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\resources\music\mecha collection.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="Message" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\resources\message.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="MessagePrompt" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\resources\messageprompt.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="MissionOver" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\resources\music\missionover.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="Notification" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\resources\sound effects\notification.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="null" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\resources\null.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="nullBlack" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\resources\nullblack.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+    <value>..\textures\enemyturrets.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="PathAxe" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\resources\textures\pathaxe.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+    <value>..\textures\pathaxe.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="PathBlack" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\resources\textures\pathblack.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+    <value>..\textures\pathblack.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="PathExit" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\resources\textures\pathexit.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+    <value>..\textures\pathexit.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="PickAxe" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\resources\textures\pickaxe.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+    <value>..\textures\pickaxe.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="RockBig" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\resources\textures\rockbig.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+    <value>..\textures\rockbig.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="RockSmall" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\resources\textures\rocksmall.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+    <value>..\textures\rocksmall.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="SandCactus" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\resources\textures\sandcactus.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="SandPlain" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\resources\textures\sandplain.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+    <value>..\textures\sandcactus.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="saved" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\resources\textures\saved.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+    <value>..\textures\saved.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="SaveNew" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\resources\textures new\savenew.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="SavePoint" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\resources\textures\savepoint.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="Selecter" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\resources\textures\selecter.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="Splash" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\resources\music\splash.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="SplashLogo" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\resources\splashlogo.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="Stone" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\resources\textures\stone.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="StoryPointerDown" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\resources\textures\storypointerdown.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="StoryPointerLeft" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\resources\textures\storypointerleft.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="StoryPointerRight" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\resources\textures\storypointerright.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="StoryPointerUp" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\resources\textures\storypointerup.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="Sunstrider" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\resources\music\sunstrider.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="Tank" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\resources\textures\tank.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="The_Monarch_s_Rule" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\resources\music\the monarch's rule.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="The_Way_You_Love" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\resources\music\the way you love.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="Title_Theme" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\resources\music\title theme.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    <value>..\textures new\savenew.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="TreeNew" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\resources\textures new\treenew.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="TreeSmall" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\resources\textures\treesmall.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="Victory__All_Clear" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\resources\music\victory! all clear.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="Victory__Sharpshooter" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\resources\music\victory! sharpshooter.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="Victory__Ultimate_Blade" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\resources\music\victory! ultimate blade.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="WallWalk" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\resources\sound effects\wallwalk.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="WaterDown" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\resources\textures\waterdown.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+    <value>..\textures new\treenew.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="WaterNew" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\resources\textures new\waternew.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="WavesInFlight" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\resources\music\wavesinflight.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="Waves_in_Flight" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\resources\music\waves in flight.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    <value>..\textures new\waternew.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="WoodPlank" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\resources\textures\woodplank.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="Zero_Respect" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\resources\music\zero respect.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="Corroupt" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\resources\ui\menu items\corroupt.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="DevelopmentUser" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\resources\ui\menu items\developmentuser.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="NoSave" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\resources\ui\menu items\nosave.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="User" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\resources\ui\menu items\user.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+    <value>..\textures\woodplank.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="mapnull" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\resources\textures\mapnull.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+    <value>..\textures\mapnull.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="GrassFlower" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\resources\textures new\grassflower.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+    <value>..\textures new\grassflower.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="GrassLong" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\resources\textures new\grasslong.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+    <value>..\textures new\grasslong.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="GrassPlain" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\resources\textures new\grassplain.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="GrassPoleFence" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\resources\textures new\grasspolefence.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="GrassPoleLarge" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\resources\textures new\grasspolelarge.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+    <value>..\textures new\grassplain.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="GrassSign" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\resources\textures new\grasssign.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="GrassTree" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\resources\textures new\grasstree.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+    <value>..\textures new\grasssign.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="Sand" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\resources\textures new\sand.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+    <value>..\textures new\sand.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="SandGravel" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\resources\textures new\sandgravel.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+    <value>..\textures new\sandgravel.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="SandPoleFence" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\resources\textures new\sandpolefence.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="SandPoleLarge" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\resources\textures new\sandpolelarge.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+    <value>..\textures new\sandpolefence.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="SandSign" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\resources\textures new\sandsign.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+    <value>..\textures new\sandsign.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="Loading_" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\resources\loading#.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="GrassTree" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\textures new\grasstree.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="GrassPoleFence" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\textures new\grasspolefence.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="GrassPoleLarge" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\textures new\grasspolelarge.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="SandPoleLarge" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\textures new\sandpolelarge.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="GrassWorn" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\grassworn.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="SelecterAction" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\resources\textures\selecteraction.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="Working" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\resources\working.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="Working1" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\resources\working1.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="Working2" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\resources\working2.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+    <value>..\textures new\grassworn.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
 </root>
